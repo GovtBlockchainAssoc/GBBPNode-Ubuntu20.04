@@ -1,4 +1,4 @@
-# GBBPNode-LinuxAndWIndows
+# GBBPNode-LinuxAndWindows
 Additional Files for a GBA GBBP Node on Linux or Windows machines
 
 Windows machines can easily run Ubuntu at the same time as Windows by installing the Windows Subsystem for Linux (WSL2) per Microsoft’s instructions (https://docs.microsoft.com/en-us/windows/wsl/install-win10).
