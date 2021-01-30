@@ -7,7 +7,7 @@ The only difference in the instructions is how Docker and Docker-Compose are ins
 
 #### Installing Docker and Docker-Compose on Windows ####
 
-1. You are going to want/need a good text editor. Download and install Visual Studio Code from https://code.visualstudio.com/docs/?dv=win .
+1. You are going to want/need a good text editor. Download and install Visual Studio Code from https://code.visualstudio.com/docs/?dv=win
 2. Add the Remote-WSL extension so that you can edit in WSL and add the Docker extension to facilitate creating, managing and debugging Docker applications.
 3. From Windows, download the Docker Desktop Installer from https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 4. Run the installer you just downloaded
